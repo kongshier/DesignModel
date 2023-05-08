@@ -1,0 +1,18 @@
+
+X
+java:S1854+";Remove this useless assignment to local variable "numberB".(±ùï¤8©¡ìÖõ0
+[
+java:S1854)">Remove this useless assignment to local variable "steOperate".(¢²8§ÌíÖõ0
+]
+java:S1854'";Remove this useless assignment to local variable "numberA".(óĞ§¡ùÿÿÿÿ8ãŒïÖõ0
+X	java:S125"<This block of commented-out lines of code should be removed.(‹Éÿ¼8™äëÖõ0
+Z	java:S106&"9Replace this use of System.out or System.err by a logger.(¶ÏãØşÿÿÿÿ8œäëÖõ0
+N
+java:S1481'",Remove this unused "numberA" local variable.(óĞ§¡ùÿÿÿÿ8¯¡ìÖõ0
+U	java:S106("9Replace this use of System.out or System.err by a logger.(¦…Ì8äëÖõ0
+L
+java:S1481)"/Remove this unused "steOperate" local variable.(¢²8°ÌíÖõ0
+U	java:S106*"9Replace this use of System.out or System.err by a logger.(êË8äëÖõ0
+I
+java:S1481+",Remove this unused "numberB" local variable.(±ùï¤8ëŒïÖõ0
+Z	java:S106/"9Replace this use of System.out or System.err by a logger.(²¸Ò„ÿÿÿÿÿ8 äëÖõ0
